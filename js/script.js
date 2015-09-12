@@ -5,7 +5,6 @@ var size = 45;
 var radius = size / 2 - 4;
 var line_width = 2;
 var title_height = 50;
-var candidate_string = ["紅", "綠", "黑", "白", "黃", "藍"];
 var timeout = 30;
 var col = 12, row = 12;
 
