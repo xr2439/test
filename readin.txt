@@ -1,0 +1,8 @@
+DONE:
+	user can register
+	user can login
+
+TO DO:
+	appearance
+	note
+	rainlendar
